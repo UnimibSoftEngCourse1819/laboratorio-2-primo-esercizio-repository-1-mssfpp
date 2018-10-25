@@ -1,3 +1,4 @@
 #First document
 
 initial content of the document.
+Additional content of the first document.
